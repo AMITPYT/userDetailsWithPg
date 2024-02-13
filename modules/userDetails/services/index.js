@@ -1,0 +1,1 @@
+module.exports.userDetailsServices = require('./userDetails.services');
